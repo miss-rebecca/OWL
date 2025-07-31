@@ -6,6 +6,14 @@ body {
     text-align: center;
     padding: 50px;
 }
+.mb-40 {
+    large-gap: 40px;
+}
+.mb-20 {
+    medium-gap: 20px;
+}
+
+
 .book-grid {
     display: flex;
     justify-content: center;

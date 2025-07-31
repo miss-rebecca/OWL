@@ -6,10 +6,6 @@ body {
     text-align: center;
     padding: 50px;
 }
-
-
-
-
 .book-grid {
     display: flex;
     justify-content: center;
